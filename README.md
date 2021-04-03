@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishek419
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Full stack with Node.js
+- 🌱 I’m currently learning React js
 - 📫 How to reach me Hk576470@gmail.com
 
 <!---
